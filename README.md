@@ -44,12 +44,6 @@ Currently open to **Data Analyst**, **Junior Data Analyst**, and **Business Anal
 
 ---
 
-## 📊 GitHub Stats
-
-![Apurva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ApurvaPandita&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ApurvaPandita&layout=compact&hide_border=true)
-
----
 
 > *"Data is only as valuable as the decisions it drives."*  
 > — Open to opportunities. Let's connect!
