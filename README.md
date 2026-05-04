@@ -36,10 +36,9 @@ Currently open to **Data Analyst**, **Junior Data Analyst**, and **Business Anal
 
 ---
 
-## 🎓 Education & Experience
+## 🎓 Education 
 
 - **B.E. Information Technology** — L.D. College of Engineering, Ahmedabad (CGPA: 8.61) · 2020–2024
-- **Business & Systems Analyst Intern** — Space Applications Center, ISRO · Jan–Apr 2024
 
 ---
 
